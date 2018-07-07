@@ -1,2 +1,1 @@
-# pymlb2-amazon-master
-python mini amazon project
+# pymlb2-amazon
